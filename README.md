@@ -1,5 +1,5 @@
 # connect_4
-connect 4 game made with python and pygame
+connect 4 game made with python and pygame,
 Instructions(How to play):
 player 1 is x
 player 2 is o 
